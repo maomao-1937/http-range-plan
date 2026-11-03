@@ -1,0 +1,7 @@
+[
+  {"args":["http_range_plan.py","examples/mixed.json"],"exit":0},
+  {"args":["http_range_plan.py","examples/unsatisfiable.json"],"exit":1},
+  {"args":["http_range_plan.py","examples/empty-suffix.json"],"exit":0},
+  {"args":["http_range_plan.py","examples/invalid.json"],"exit":2},
+  {"args":["http_range_plan.py","--help"],"exit":0}
+]
